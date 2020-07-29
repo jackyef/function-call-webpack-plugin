@@ -5,6 +5,10 @@
   "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/generator": "^7.10.5",
+    "@babel/parser": "^7.10.5",
+    "@babel/traverse": "^7.10.5",
     "webpack": "^4.44.0"
   },
   "devDependencies": {

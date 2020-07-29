@@ -1,3 +1,1 @@
-module.exports = { 
-  log: (...args) => console.log(...args)
-}
+export const log = (...args) => console.log(...args);
