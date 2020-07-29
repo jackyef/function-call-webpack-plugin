@@ -1,0 +1,10 @@
+{
+  "name": "webpack-plugin-function-invoke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jacky Efendi <jacky.efendi1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.44.0"
+  }
+}
