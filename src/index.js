@@ -1,3 +1,4 @@
+// changing this to "import log from './helpers/log';" should still work
 import { log } from './helpers/log';
 
 // these will be logged

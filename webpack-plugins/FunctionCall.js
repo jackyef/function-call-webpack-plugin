@@ -1,6 +1,4 @@
 const fs = require('fs');
-const babel = require('@babel/core');
-const t = babel.types;
 const parser = require('@babel/parser');
 const generate = require('@babel/generator').default;
 const traverse = require('@babel/traverse').default;
